@@ -9,7 +9,7 @@ I made a single-page [hugo web-page](https://vvseva.netlify.app/), but never had
 * 💬 &nbsp;I speak English, R (tidyverse) and Python fluently, but still prefer R
 * 🔭 &nbsp;I’m currently studying something about computers and people in HSE University, Russia
 * 👩🏻‍💻 &nbsp;Pronouns: ˈfsʲevələt, but you can call me Seva (sʲeva)
-* 📫 &nbsp;I do not why you might want to reach me: 
+* 📫 &nbsp;I have no idea why you might want to reach me: 
   * vvsuschevskiy at gmail dot com
 * Things I can probably do:
   * Design experiments
