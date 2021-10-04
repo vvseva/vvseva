@@ -7,7 +7,7 @@ I made a single-page [hugo web-page](https://vvseva.netlify.app/), but never had
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvseva&hide=html,JavaScript,SCSS,Less,shell,CSS,Sass&theme=dark&show_icons=true&langs_count=10&layout=compact&hide_title=True)
 
 * 💬 &nbsp;I speak English, R (tidyverse) and Python fluently, but still prefer R
-* 🔭 &nbsp;I’m currently studying something about computers and people in HSE University Russia
+* 🔭 &nbsp;I’m currently studying something about computers and people in HSE University, Russia
 * 👩🏻‍💻 &nbsp;Pronouns: ˈfsʲevələt, but you can call me Seva (sʲeva)
 * 📫 &nbsp;I do not why you might want to reach me: 
   * vvsuschevskiy at gmail dot com
