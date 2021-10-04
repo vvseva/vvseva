@@ -15,4 +15,4 @@ I made a single-page [hugo web-page](https://vvseva.netlify.app/), but never had
   * Design experiments
   * Build virtual labs in shiny
   * Analyse casual and non-casual stuff
-  * Write mediocre papers
+  * Write mediocre ![papers](https://scholar.google.com/citations?user=TycFXMIAAAAJ&hl=en&oi=ao)
