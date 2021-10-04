@@ -3,7 +3,8 @@
 My name is **Vsevolod Suschevskiy** and I like research 😄
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vvseva)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvseva&hide=html,JavaScript,SCSS,Less,shell,CSS,Sass&theme=prussian&show_icons=true&langs_count=10)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvseva&hide=html,JavaScript,SCSS,Less,shell,CSS,Sass&theme=compact&show_icons=true&langs_count=10)
 
 * 💬 &nbsp;I can speak English and R (tidyverse) fluently
 * 🔭 &nbsp;I’m currently studying something about computers and people in HSE University Russia
