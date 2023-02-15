@@ -8,7 +8,7 @@ I made a single-page [hugo web-page](https://vvseva.netlify.app/), but never had
 
 * 💬 &nbsp;I speak English, R (tidyverse) and Python fluently, but still prefer R
 * 🔭 &nbsp;I’m currently researching human-AI collaboration at Northwestern, USA
-* 👩🏻‍💻 &nbsp;Pronouns: ˈfsʲevələt, but you can call me Seva (sʲeva)
+* 👩🏻‍💻 &nbsp;Name: ˈfsʲevələt, but you can call me Seva (sʲeva)
 * 📫 &nbsp;I have no idea why you might want to reach me: 
   * vvsuschevskiy at gmail dot com
 * Things I can probably do:
