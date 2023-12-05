@@ -4,7 +4,7 @@ My name is **Vsevolod Suschevskiy** and I like research 😄
 
 I made a single-page [hugo web-page](https://vvseva.netlify.app/), but never had motivation to fill it
 
-![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vvseva&hide=html,JavaScript,SCSS,Less,shell,CSS,Sass&theme=dark&show_icons=true&langs_count=10&layout=compact&hide_title=True)
+![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vvseva&hide=html,SCSS,Less,shell,CSS,Sass&theme=dark&show_icons=true&langs_count=10&layout=compact&hide_title=True)
 
 * 💬 &nbsp;I speak English, R (tidyverse) and Python fluently, but still prefer R
 * 🔭 &nbsp;I’m currently researching human-AI collaboration at Northwestern, USA
