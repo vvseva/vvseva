@@ -2,7 +2,7 @@
 
 My name is **Vsevolod Suschevskiy** and I study human-computer collabotaive work in teams and orginizations
 
-I made a personal [quarto web-page](https://vvseva.quarto.pub), but and updated it in June 2024
+I made a personal [quarto web-page](https://vvseva.quarto.pub), and updated it in June 2024
 
 ![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vvseva&hide=html,SCSS,Less,shell,CSS,Sass&theme=dark&show_icons=true&langs_count=10&layout=compact&hide_title=True)
 
