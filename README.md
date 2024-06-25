@@ -1,8 +1,8 @@
 ![](https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true)
 
-My name is **Vsevolod Suschevskiy** and I like research 😄
+My name is **Vsevolod Suschevskiy** and I study human-computer collabotaive work in teams and orginizations
 
-I made a single-page [hugo web-page](https://vvseva.netlify.app/), but never had motivation to fill it
+I made a personal [quarto web-page](https://vvseva.quarto.pub), but and updated it in June 2024
 
 ![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vvseva&hide=html,SCSS,Less,shell,CSS,Sass&theme=dark&show_icons=true&langs_count=10&layout=compact&hide_title=True)
 
@@ -11,8 +11,8 @@ I made a single-page [hugo web-page](https://vvseva.netlify.app/), but never had
 * 👩🏻‍💻 &nbsp;Name: ˈfsʲevələt, but you can call me Seva (sʲeva)
 * 📫 &nbsp;I have no idea why you might want to reach me: 
   * vvsuschevskiy at gmail dot com
-* Things I can probably do:
-  * Design experiments
-  * Build virtual labs in shiny
+* Things I can do:
+  * Design experiments with complex designs and multiple participants
+  * Build virtual labs using  R shiny, and Empirica (JS)
   * Analyse casual and non-casual stuff
-  * Write mediocre [papers](https://scholar.google.com/citations?user=TycFXMIAAAAJ&hl=en&oi=ao)
+  * Write [papers](https://scholar.google.com/citations?user=TycFXMIAAAAJ&hl=en&oi=ao)
