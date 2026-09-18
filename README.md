@@ -4,7 +4,7 @@ My name is **Vsevolod Suschevskiy** and I study human-computer interaction of co
 
 I made a personal [quarto web-page](https://vvseva.quarto.pub), and updated it in September 2025
 
-![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vvseva&hide=html,SCSS,Less,shell,CSS,Sass&theme=dark&show_icons=true&langs_count=10&layout=compact&hide_title=True)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=vvseva)](https://github.com/stats-organization/github-stats-extended)
 
 * 💬 &nbsp;I speak English, R (tidyverse) and Python fluently, but still prefer R
 * 🔭 &nbsp;I’m currently researching residential segregation at Linköping, Sweden
